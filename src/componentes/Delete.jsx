@@ -2,7 +2,7 @@ import React, { useState } from 'react'
 import { useNavigate } from 'react-router-dom';
 import axios from 'axios'
 import CampoTexto from './CampoTexto'
-import Erro from './erro'
+import Erro from './Erro'
 
 function Delete() {
   const [id, setId] = useState('')

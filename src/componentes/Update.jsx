@@ -2,7 +2,7 @@ import React, { useState, useEffect } from 'react'
 import axios from 'axios'
 import CampoTexto from './CampoTexto'
 import Change from './Change'
-import Erro from './erro'
+import Erro from './Erro'
 
 
 function Update() {
